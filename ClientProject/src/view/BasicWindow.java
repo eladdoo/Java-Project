@@ -12,12 +12,12 @@ import org.eclipse.swt.widgets.Shell;
  */
 public abstract class BasicWindow extends Observable implements Runnable
 {
-	
+	//
 	/** The display. */
 	protected Display display;
 	
 	/** The shell. */
-	//
+	
 	protected Shell shell;
 	
 	/**
