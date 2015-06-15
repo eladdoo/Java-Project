@@ -1,11 +1,12 @@
 package model;
 
 import algorithms.mazeGenerators.Maze;
-//
+
 
 /**
  * The Interface Model.
  */
+//
 public interface Model 
 {
 	/**
