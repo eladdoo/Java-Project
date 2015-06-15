@@ -10,7 +10,7 @@ import org.eclipse.swt.graphics.Image;
  */
 public class GameCharacter 
 {
-	
+	//
 	/** The height. */
 	private int row,coll,width,height;
 	
