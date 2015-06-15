@@ -17,6 +17,7 @@ public abstract class BasicWindow extends Observable implements Runnable
 	protected Display display;
 	
 	/** The shell. */
+	//
 	protected Shell shell;
 	
 	/**
